@@ -5,4 +5,4 @@
 github_url = "https://heleaf.github.io/gpi-url-shortener"
 
 # put the absolute path to the url shortener repo on your
-#path_to_repo = "/ABSOLUTE/PATH/TO/gpi-url-shortener"
+path_to_repo = "/Users/hfy/gpi-url-shortener"
